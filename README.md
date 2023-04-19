@@ -36,7 +36,7 @@ Connect the supply(+5V) to the cirucit. Switch ON the main switch if the output 
 ### Half Subtractor
 ```verilog
 /*
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+Program to design a half subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Sanjay Ragavendar M K
 RegisterNumber:  212222100045
 */
@@ -52,7 +52,7 @@ endmodule
 ### Full Subtractor
 ```verilog
 /*
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+Program to design a full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Sanjay Ragavendar M K
 RegisterNumber:  212222100045
 */
