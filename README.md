@@ -41,7 +41,7 @@ RegisterNumber:  212222100045
 */
 ```
 HALF_SUBTRACTOR :
-```verilog
+```
 module Halfsub(A,B,Diff,Borrow);
 input A,B;
 output Diff,Borrow;
@@ -52,7 +52,7 @@ and(Borrow,x,B);
 endmodule
 ```
 FULL_SUBTRACTOR :
-```verilog
+```
 module FulLsub(A,B,C,Diff,Borrow);
 input A,B,C;
 output Diff,Borrow;
